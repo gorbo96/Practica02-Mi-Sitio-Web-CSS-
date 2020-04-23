@@ -58,3 +58,9 @@ section.videoyt *.expandir {
     width: 100%;
     text-align: center;
 }
+a:active {
+    color: #d9e1e9;
+}
+a:hover {
+    color: #d00707;
+}

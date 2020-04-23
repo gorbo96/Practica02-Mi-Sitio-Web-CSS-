@@ -102,3 +102,9 @@ section.Dirigentes img {
 section.Dirigentes, section.Dirigentes {
     float: left;
 } 
+a:active {
+    color: #d9e1e9;
+}
+a:hover {
+    color: #d00707;
+}

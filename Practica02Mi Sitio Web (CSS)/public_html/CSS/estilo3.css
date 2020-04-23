@@ -72,3 +72,9 @@ section,h2,h3 {
     padding: 0px;
     margin: 0px;
 }
+a:active {
+    color: #d9e1e9;
+}
+a:hover {
+    color: #d00707;
+}

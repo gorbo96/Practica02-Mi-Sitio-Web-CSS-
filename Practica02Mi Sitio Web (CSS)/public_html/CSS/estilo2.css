@@ -72,3 +72,9 @@ section, section header,article {
 section h2,h3 {
     border-bottom: 1px groove #6787a9;
 }
+a:active {
+    color: #d9e1e9;
+}
+a:hover {
+    color: #d00707;
+}

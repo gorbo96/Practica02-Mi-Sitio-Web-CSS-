@@ -52,3 +52,9 @@ section article * {
 video {
     width: 100%;
 }
+a:active {
+    color: #d9e1e9;
+}
+a:hover {
+    color: #d00707;
+}
